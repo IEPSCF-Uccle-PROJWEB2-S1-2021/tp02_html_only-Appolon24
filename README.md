@@ -3,10 +3,6 @@
 Pour ce deuxième exercice de travaux pratiques, je souhaite que vous remettiez une page HTML.
 
 Votre page HTML devra avoir les caractéristiques suivantes :
-
-#!doctype
-
-
 - [ ] Votre page HTML ne devra faire usage que de code HTML (pas de CSS ou de JavaScript).
 - [ ] Elle présentera un acteur de film.
 - [ ] Elle contiendra une photo de l'acteur de minimum 100 pixels et maximum 200 pixels de large ;
